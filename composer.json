@@ -1,0 +1,17 @@
+{
+    "name": "pv/mfw",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "mfw\\": "core/src",
+            "app\\": "apps"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Klochkov",
+            "email": "fenix@gkub.net"
+        }
+    ],
+    "require": {}
+}
