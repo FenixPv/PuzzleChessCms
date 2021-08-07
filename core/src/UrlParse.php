@@ -56,10 +56,6 @@ class UrlParse
         if($num >= $col) {
             return '';
         }
-        
-        // if ($num == $col) {
-        //     return '';
-        // }
 
         return $url[$num];
         
